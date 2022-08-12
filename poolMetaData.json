@@ -1,8 +1,6 @@
-cat > poolMetaData.json << EOF
 {
 "name": "VividTest",
 "description": "First test pool",
 "ticker": "VIVID",
 "homepage": "https://twitter.com/CryptoVivid"
 }
-EOF
