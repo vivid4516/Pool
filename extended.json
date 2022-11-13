@@ -1,1 +1,10 @@
-
+{
+       "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/vivid4516/Pool/main/icon.png",
+        "url_png_logo": "https://raw.githubusercontent.com/vivid4516/Pool/main/logo.png",
+        "social": {
+            "twitter_handle": "ADANinjaz",
+            "ada_handle": "$adan"
+        },
+    }
+}
